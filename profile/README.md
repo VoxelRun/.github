@@ -9,7 +9,7 @@ We are a group of programmers which would like to build a Voxel game in Rust wit
 - All Contributions must include sufficient documentation via rustdoc in Rust code. If the code is doing something not decipherable by just reading it, add explanatory comments.
 
 ### Useful resources
-TBA
+The Art of Multiprocessor Programming
 
 ### Fun Fact
 The vulkan graphic API contains an enum Variant, the name of which is 80 characters long, that is, depending on the spelling, as long as the unofficially longest word of the german language you may find [here](https://en.wikipedia.org/wiki/Donaudampfschiffahrtselektrizit%C3%A4tenhauptbetriebswerkbauunterbeamtengesellschaft)
