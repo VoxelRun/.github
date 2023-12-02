@@ -1,7 +1,7 @@
 ## Hello dear Programmers
 
 ### Who are we?
-We are a group of programmers which would like to build a Voxel game in Rust without relying on the bare minimum of dependencies in Rust.
+We are a group of programmers which would like to build a Voxel game in Rust with only relying on the bare minimum of dependencies in Rust.
 
 ### Contribution Guidelines
 - All Contributions must be checked by cargo fmt, and pass all test cases defined in the crates.
@@ -12,7 +12,7 @@ We are a group of programmers which would like to build a Voxel game in Rust wit
 The Art of Multiprocessor Programming
 
 ### Fun Fact
-The vulkan graphic API contains an enum Variant, the name of which is 80 characters long, that is, depending on the spelling, as long as the unofficially longest word of the german language you may find [here](https://en.wikipedia.org/wiki/Donaudampfschiffahrtselektrizit%C3%A4tenhauptbetriebswerkbauunterbeamtengesellschaft)
+The vulkan graphics API contains an enum Variant, the name of which is 80 characters long, that is, depending on the spelling, as long as the unofficially longest word of the german language you may find [here](https://en.wikipedia.org/wiki/Donaudampfschiffahrtselektrizit%C3%A4tenhauptbetriebswerkbauunterbeamtengesellschaft)
 
 <!--
 
